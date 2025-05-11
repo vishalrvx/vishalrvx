@@ -6,20 +6,10 @@ I'm a passionate **Full Stack Developer** with over **3 years** of hands-on expe
 
 ## 🔧 Technologies & Tools
 
-**Frontend:**
-- React.js, AngularJS, Next.js
-- TailwindCSS, HTML5, CSS3
-- Redux, State Management
-
-**Backend:**
-- Node.js, Express.js
-- RESTful APIs, Microservices
-
-**DevOps & Cloud:**
-- AWS (EC2, S3, Lambda), Nginx
-
-**Version Control:**
-- Git, GitHub
+**Frontend:** React.js, AngularJS, Next.js, TailwindCSS, HTML5, CSS3, Redux  
+**Backend:** Node.js, Express.js, RESTful APIs, Microservices  
+**DevOps & Cloud:** AWS (EC2, S3), Nginx  
+**Version Control:** Git, GitHub
 
 ---
 
